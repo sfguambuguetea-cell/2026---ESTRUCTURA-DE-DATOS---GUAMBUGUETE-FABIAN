@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\bin\Debug\net10.0\practicoexperimental1.exe
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\bin\Debug\net10.0\practicoexperimental1.deps.json
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\bin\Debug\net10.0\practicoexperimental1.runtimeconfig.json
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\bin\Debug\net10.0\practicoexperimental1.dll
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\bin\Debug\net10.0\practicoexperimental1.pdb
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.dll
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\refint\practicoexperimental1.dll
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.pdb
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\practicoexperimental1.genruntimeconfig.cache
+C:\Users\Usuario\Documents\2026--ESTRUCTURAS DE DATOS\practicoexperimental1\obj\Debug\net10.0\ref\practicoexperimental1.dll
